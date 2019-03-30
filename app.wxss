@@ -1,0 +1,11 @@
+/* 主体颜色 */
+
+.themecolor {
+  color: #f1c4cd;
+}
+
+/* 主体颜色（暗） */
+
+.darkthemecolor {
+  color: #e77c8e;
+}
